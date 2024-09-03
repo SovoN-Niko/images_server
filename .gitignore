@@ -1,0 +1,14 @@
+# Ignore uploaded files in Debug.
+__pycache__
+__pycache__/
+/__pycache__/*
+
+.vscode
+.vscode/
+/.vscode/*
+
+backend/logs
+
+.venv
+.venv/
+/.venv/*
